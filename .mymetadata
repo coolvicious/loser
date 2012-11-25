@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zlosertest"
+  id="myeclipse.1352784127031"
+  context-root="/losertest"
+  j2ee-spec="5.0"
+  archive="zlosertest.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
